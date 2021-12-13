@@ -36,5 +36,5 @@ Main Project catalogue：
 6. others
    See reference of the develop docs.
 
-### Docs
+## Docs
 See [Development Docs](https://uniapp.dcloud.io/).
