@@ -1,0 +1,23 @@
+{
+    "name": "pro_tiara_uniapp",
+    "version": "1.0.0",
+    "description": "#### 2021-11-04 tiara dream",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/laiker0718/pro_tiara_uniapp.git"
+    },
+    "directories": {
+        "static": "static"
+    },
+    "keywords": [],
+    "author": "Evan",
+    "license": "ISC",
+    "dependencies": {
+        "photo-sphere-viewer": "^4.2.1",
+        "vconsole": "^3.7.0"
+    }
+}

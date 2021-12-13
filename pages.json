@@ -1,0 +1,30 @@
+{
+    "pages": [{
+            "path": "pages/rsvp/index"
+        },
+        {
+            "path": "pages/rsvp/room"
+        },
+        {
+            "path": "pages/rsvp/appointment"
+        },
+        {
+            "path": "pages/rsvp/qrcode"
+        },
+        {
+            "path": "pages/rsvp/countdown"
+        },
+
+        {
+            "path": "pages/home/home"
+        }
+    ],
+    "globalStyle": {
+        "navigationBarTitleText": "TIARA",
+        "backgroundColor": "#FFFFFF",
+        "navigationStyle": "custom",
+        "app-plus": {
+            "background": "#FFFFFF"
+        }
+    }
+}
