@@ -22,9 +22,9 @@ See [Download URL](https://www.dcloud.io/hbuilderx.html)
 ## Project manager
 Main Project catalogue：
 1. core files of the project
-   1.1 main.js, app.vue are the entry of the application.
-   1.2 package.json defines the devpendencies of the project.
-   1.3 manifest.json is the global config of the project.
+    * main.js, app.vue are the entry of the application.
+    * package.json defines the devpendencies of the project.
+    * manifest.json is the global config of the project.
 2. common
    It defines the global const variables used in vue files.
 3. components
